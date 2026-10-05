@@ -1,5 +1,4 @@
-// Playwright CI Learning Project
-// Learning Git with Playwright
+// Login test automation work
 // @ts-check
 import { test, expect } from '@playwright/test';
 
